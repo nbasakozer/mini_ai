@@ -1,0 +1,101 @@
+serverTimestamp,day_part_x,user_id,numberRating,highestRating,lowestRating,medianRating,sdRating,numberLowRating,numberMediumRating,numberHighRating,numberMessageReceived,numberMessageRead,readAllMessage,reward,timestamp,day_part_y,action,message,day_part_numeric
+01/08/2021,2,AAAAAACI,0,0,0,0.0,0.005336153,0,0,0,3,0,0,0.04484804,01:22.340625,evening,2.0,It is sometimes helpful to re-read the content of the training to refresh your knowledge.,2.0
+10/17/2020,0,AAAAAAAU,0,0,0,0.0,0.005335537,0,0,0,1,0,0,0.04484804,01:18.389353,morning,1.0,It’s great that you are making time for yourself to improve your mood!,0.0
+10/06/2020,0,AAAAAABI,0,0,0,0.0,0.005335358,0,0,0,1,0,0,0.04484804,01:05.367544,morning,0.0,No message was sent!,0.0
+10/08/2020,1,AAAAAAA9,2,5,4,5.3,0.906007342,0,1,1,2,2,1,1.160154572,01:19.237018,afternoon,1.0,It is good that you take part in Moodbuster Lite. You can commend yourself for that!,1.0
+01/06/2021,2,AAAAAAA0,0,0,0,0.0,0.005336078,0,0,0,3,0,0,0.04484804,01:23.948025,evening,2.0,It is sometimes helpful to re-read the content of the training to refresh your knowledge.,2.0
+10/30/2020,0,AAAAAACR,0,0,0,0.0,0.005336463,0,0,0,1,0,0,0.04484804,01:15.995992,morning,1.0,It’s great that you are making time for yourself to improve your mood!,0.0
+11/21/2020,2,AAAAAACA,0,0,0,0.0,0.005334821,0,0,0,3,0,0,0.04484804,01:33.481102,evening,2.0,It is good to track what pleasant activities you did.,2.0
+11/05/2020,1,AAAAAACK,0,0,0,0.0,0.005334119,0,0,0,2,0,0,0.04484804,01:08.691719,afternoon,1.0,Do you know you can always review the material of sessions if you need it?,1.0
+10/16/2020,2,AAAAAABJ,0,0,0,0.0,0.005336543,0,0,0,2,0,0,0.04484804,01:36.353093,evening,2.0,"In your calendar, you can see the activities which you planned in the past.",2.0
+11/04/2020,2,AAAAAAAC,0,0,0,0.0,0.005335551,0,0,0,3,0,0,0.04484804,01:14.181878,evening,2.0,Did you forget what pleasant activities to do? You can always check your notes on the website.,2.0
+10/08/2020,2,AAAAAACD,3,5,3,4.4,0.673820861,0,1,1,2,3,1,2.0,01:25.002511,afternoon,1.0,It seems like you’re on the right track! Keep up the good work!,1.0
+11/17/2020,2,AAAAAABW,0,5,0,0.0,0.005333875,0,0,0,3,1,1,0.733750758,01:30.798728,evening,2.0,It is good to track what pleasant activities you did.,2.0
+12/16/2020,1,AAAAAAAF,0,0,0,0.0,0.005334431,0,0,0,2,0,0,0.04484804,01:20.054226,afternoon,1.0,It’s great that you are making time for yourself to improve your mood!,1.0
+12/14/2020,1,AAAAAAA8,0,0,0,0.0,0.005336004,0,0,0,2,0,0,0.04484804,01:21.753305,afternoon,1.0,It’s great that you are making time for yourself to improve your mood!,1.0
+11/04/2020,0,AAAAAAAJ,0,0,0,0.0,0.005334547,0,0,0,1,0,0,0.04484804,01:35.113929,morning,1.0,Good that you are still rating your mood on a regular basis! Keep up the good work!,0.0
+01/09/2021,2,AAAAAAAI,0,0,0,0.0,0.005334343,0,0,0,3,0,0,0.04484804,01:08.999232,evening,2.0,It is sometimes helpful to re-read the content of the training to refresh your knowledge.,2.0
+01/10/2021,2,AAAAAAAG,0,0,0,0.0,0.005335617,0,0,0,3,0,0,0.04484804,01:34.627954,evening,2.0,It’s good to keep track of what pleasant activities you do and how your mood is.,2.0
+11/17/2020,1,AAAAAABO,0,0,0,0.0,0.005335722,0,0,0,2,0,0,0.04484804,09:08.119191,afternoon,1.0,It is good that you take part in Moodbuster Lite. You can commend yourself for that!,1.0
+10/07/2020,2,AAAAAAA3,3,6,6,6.1,0.617704575,0,0,1,3,3,1,1.999999991,01:08.959845,evening,1.0,Good to see that you are doing well. Good luck continuing Moodbuster Lite.,2.0
+12/21/2020,2,AAAAAABR,0,0,0,0.0,0.005335816,0,0,0,3,0,0,0.04484804,01:22.342060,evening,2.0,Do you know you can always review the material of sessions if you need it?,2.0
+12/12/2020,0,AAAAAABT,0,0,0,0.0,0.005336662,0,0,0,1,0,0,0.04484804,01:16.980799,morning,1.0,It’s great that you are making time for yourself to improve your mood!,0.0
+12/30/2020,1,AAAAAACX,0,0,0,0.0,0.005335045,0,0,0,2,0,0,0.04484804,01:32.911365,afternoon,1.0,It is good that you take part in Moodbuster Lite. You can commend yourself for that!,1.0
+11/08/2020,1,AAAAAABX,0,0,0,0.0,0.005336018,0,0,0,2,0,0,0.04484804,01:09.607271,afternoon,1.0,It’s great that you are making time for yourself to improve your mood!,1.0
+11/01/2020,0,AAAAAAAR,0,0,0,0.0,0.005334643,0,0,0,1,0,0,0.04484804,01:08.660641,morning,1.0,It’s great that you are making time for yourself to improve your mood!,0.0
+12/31/2020,0,AAAAAAAO,0,0,0,0.0,0.005334993,0,0,0,1,0,0,0.04484804,01:12.859396,morning,1.0,Reminders may help you to not forget about the pleasant activities.,0.0
+12/31/2020,2,AAAAAAC0,0,0,0,0.0,0.005335057,0,0,0,3,0,0,0.04484804,01:16.290868,evening,2.0,Do you know you can always review the material of sessions if you need it?,2.0
+10/17/2020,2,AAAAAABM,0,0,0,0.0,0.005335148,0,0,0,3,0,0,0.04484804,01:07.176116,morning,2.0,It’s good to keep the track of what pleasant activities you do and how your mood is.,2.0
+11/22/2020,2,AAAAAAA1,0,0,0,0.0,0.005337548,0,0,0,3,0,0,0.04484804,01:21.084391,evening,2.0,It is sometimes helpful to re-read the content of the training to refresh your knowledge.,2.0
+10/07/2020,0,AAAAAAB0,0,0,0,0.0,0.005334617,0,0,0,1,0,0,0.04484804,01:05.300430,morning,0.0,No message was sent!,0.0
+11/08/2020,2,AAAAAABF,0,0,0,0.0,0.005337088,0,0,0,3,0,0,0.04484804,01:21.483510,evening,2.0,"In your calendar, you can see the activities which you planned in the past.",2.0
+10/29/2020,1,AAAAAABN,0,0,0,0.0,0.005335838,0,0,0,2,0,0,0.04484804,01:21.688833,afternoon,1.0,You are making a lot of progress! You can be proud of yourself!,1.0
+12/21/2020,0,AAAAAACB,0,0,0,0.0,0.005336135,0,0,0,1,0,0,0.04484804,01:19.265487,afternoon,1.0,It is good that you take part in Moodbuster Lite. You can commend yourself for that!,0.0
+12/21/2020,1,AAAAAABZ,0,0,0,0.0,0.005334724,0,0,0,2,1,0,0.04484804,01:17.667143,afternoon,1.0,It’s great that you are making time for yourself to improve your mood!,1.0
+12/31/2020,2,AAAAAACV,0,0,0,0.0,0.005335039,0,0,0,3,0,0,0.04484804,01:08.917113,evening,2.0,Don’t forget to set a reminder in order to not forget about your scheduled pleasant activities.,2.0
+10/07/2020,0,AAAAAABH,0,0,0,0.0,0.005334411,0,0,0,1,0,0,0.04484804,01:03.402829,morning,2.0,No message was sent!,0.0
+01/10/2021,2,AAAAAAA4,0,0,0,0.0,0.005336483,0,0,0,3,0,0,0.04484804,01:19.775386,evening,2.0,It is good to track what pleasant activities you did.,2.0
+12/19/2020,0,AAAAAAC1,0,0,0,0.0,0.005335734,0,0,0,1,0,0,0.04484804,01:33.687344,morning,1.0,It’s great that you are making time for yourself to improve your mood!,0.0
+12/22/2020,0,AAAAAAAS,0,0,0,0.0,0.005334933,0,0,0,1,0,0,0.04484804,01:13.421576,morning,1.0,It is good that you take part in Moodbuster Lite. You can commend yourself for that!,0.0
+12/08/2020,1,AAAAAAA5,0,0,0,0.0,0.005335175,0,0,0,2,0,0,0.04484804,01:17.063105,afternoon,2.0,Good that you are still rating your mood on a regular basis! Keep up the good work!,1.0
+11/15/2020,1,AAAAAAAN,0,0,0,0.0,0.005335393,0,0,0,2,0,0,0.04484804,01:29.797702,afternoon,1.0,It’s great that you are making time for yourself to improve your mood!,1.0
+10/10/2020,2,AAAAAABU,3,5,5,5.2,0.005333827,0,0,0,3,3,0,1.99999994,01:22.062034,evening,1.0,Good to see that you are doing well. Good luck continuing Moodbuster Lite.,2.0
+01/03/2021,0,AAAAAABA,0,0,0,0.0,0.005335718,0,0,0,1,0,0,0.04484804,01:09.174103,morning,1.0,It is good that you take part in Moodbuster Lite. You can commend yourself for that!,0.0
+10/19/2020,0,AAAAAABE,0,0,0,0.0,0.005336195,0,0,0,1,0,0,0.04484804,01:25.327590,morning,1.0,It is good that you take part in Moodbuster Lite. You can commend yourself for that!,0.0
+11/19/2020,1,AAAAAAB7,0,0,0,0.0,0.005335463,0,0,0,2,0,0,0.04484804,01:31.870248,afternoon,1.0,It’s great that you are making time for yourself to improve your mood!,1.0
+12/31/2020,2,AAAAAAB1,0,0,0,0.0,0.005335506,0,0,0,3,0,0,0.04484804,01:26.522476,evening,2.0,"In your calendar, you can see the activities which you planned in the past.",2.0
+10/16/2020,1,AAAAAAAQ,0,0,0,0.0,0.005335307,0,0,0,2,0,0,0.04484804,01:24.145933,afternoon,1.0,It’s great that you are making time for yourself to improve your mood!,1.0
+12/23/2020,0,AAAAAABV,0,0,0,0.0,0.005334979,0,0,0,1,0,0,0.04484804,01:21.041171,morning,1.0,It’s great that you are making time for yourself to improve your mood!,0.0
+11/13/2020,2,AAAAAACY,0,0,0,0.0,0.005335862,0,0,0,3,0,0,0.04484804,01:16.274551,evening,2.0,"In your calendar, you can see the activities which you planned in the past.",2.0
+01/01/2021,1,AAAAAAAP,0,0,0,0.0,0.005334657,0,0,0,2,0,0,0.04484804,01:18.599113,afternoon,1.0,It’s great that you are making time for yourself to improve your mood!,1.0
+10/17/2020,2,AAAAAAAW,0,0,0,0.0,0.005334933,0,0,0,3,0,0,0.04484804,01:28.076071,evening,2.0,Don’t forget to set a reminder in order to not forget about your scheduled pleasant activities.,2.0
+12/16/2020,0,AAAAAAB2,0,0,0,0.0,0.005336489,0,0,0,1,0,0,0.04484804,01:07.738470,morning,1.0,It is good that you take part in Moodbuster Lite. You can commend yourself for that!,0.0
+10/29/2020,2,AAAAAACO,0,0,0,0.0,0.005335256,0,0,0,3,0,0,0.04484804,01:15.894487,evening,2.0,Do you know you can always review the material of sessions if you need it?,2.0
+10/26/2020,2,AAAAAACZ,0,0,0,0.0,0.005335302,0,0,0,3,0,0,0.04484804,01:13.092401,evening,2.0,Don’t forget to set a reminder in order to not forget about your scheduled pleasant activities.,2.0
+12/24/2020,1,AAAAAACF,0,0,0,0.0,0.005335377,0,0,0,2,0,0,0.04484804,01:39.090855,afternoon,1.0,It is good that you take part in Moodbuster Lite. You can commend yourself for that!,1.0
+12/11/2020,2,AAAAAAAV,0,0,0,0.0,0.005335805,0,0,0,2,0,0,0.04484804,01:15.902903,evening,2.0,"In your calendar, you can see the activities which you planned in the past.",2.0
+01/02/2021,2,AAAAAAB4,0,0,0,0.0,0.005335933,0,0,0,3,0,0,0.04484804,01:29.032620,evening,2.0,It’s good to keep track of what pleasant activities you do and how your mood is.,2.0
+10/07/2020,1,AAAAAAAM,0,0,0,0.0,0.005335826,0,0,0,2,0,0,0.04484804,01:07.197353,afternoon,2.0,It is good that you take part in Moodbuster Lite. You can commend yourself for that!,1.0
+10/30/2020,0,AAAAAABY,0,0,0,0.0,0.005333426,0,0,0,1,0,0,0.04484804,01:25.785456,morning,1.0,It’s great that you are making time for yourself to improve your mood!,0.0
+12/17/2020,0,AAAAAABK,0,0,0,0.0,0.005334252,0,0,0,1,0,0,0.04484804,01:19.669792,morning,1.0,It’s great that you are making time for yourself to improve your mood!,0.0
+12/24/2020,1,AAAAAACT,0,0,0,0.0,0.005337489,0,0,0,2,0,0,0.04484804,01:20.732233,afternoon,1.0,It is sometimes helpful to re-read the content of the training to refresh your knowledge.,1.0
+10/11/2020,0,AAAAAAB5,0,0,0,0.0,0.005333436,0,0,0,1,1,1,0.737923874,01:29.378594,morning,1.0,Good that you are still rating your mood on a regular basis! Keep up the good work!,0.0
+10/16/2020,2,AAAAAAAA,2,5,5,5.6,0.005334594,0,1,0,3,0,1,0.981673421,01:20.584150,evening,2.0,Reminders may help you to not forget about the pleasant activities.,2.0
+12/11/2020,0,AAAAAACU,0,0,0,0.0,0.005335031,0,0,0,1,0,0,0.04484804,01:34.752201,morning,1.0,It is good that you take part in Moodbuster Lite. You can commend yourself for that!,0.0
+10/10/2020,0,AAAAAAB8,0,0,0,0.0,0.005334729,0,0,0,1,1,1,0.420698649,01:07.696363,morning,1.0,Good that you are still rating your mood on a regular basis! Keep up the good work!,0.0
+11/23/2020,0,AAAAAACH,0,0,0,0.0,0.005335898,0,0,0,1,0,0,0.04484804,01:17.832028,morning,1.0,Good that you are still rating your mood on a regular basis! Keep up the good work!,0.0
+10/14/2020,1,AAAAAACQ,0,0,5,0.0,0.00533481,0,0,0,2,2,1,0.639867593,01:21.282778,afternoon,1.0,It is good to track what pleasant activities you did.,1.0
+11/02/2020,1,AAAAAABG,0,0,0,0.0,0.005334774,0,0,0,2,0,0,0.04484804,01:21.507177,afternoon,1.0,It is good that you take part in Moodbuster Lite. You can commend yourself for that!,1.0
+01/07/2021,2,AAAAAABC,0,0,0,0.0,0.005334447,0,0,0,3,0,0,0.04484804,01:11.708609,evening,2.0,It is sometimes helpful to re-read the content of the training to refresh your knowledge.,2.0
+11/06/2020,2,AAAAAAB3,2,6,4,5.5,0.005334524,0,0,0,3,1,0,1.09402686,01:23.028235,evening,1.0,Don’t forget to set a reminder in order to not forget about your scheduled pleasant activities.,2.0
+10/16/2020,0,AAAAAACL,0,0,0,0.0,0.005335045,0,0,0,1,0,0,0.04484804,01:07.038226,morning,1.0,It’s great that you are making time for yourself to improve your mood!,0.0
+10/11/2020,0,AAAAAACJ,0,0,0,0.0,0.005335529,0,0,0,1,0,0,0.04484804,01:06.448102,morning,2.0,It’s good to keep the track of what pleasant activities you do and how your mood is.,0.0
+12/07/2020,1,AAAAAACS,0,0,0,0.0,0.005335761,0,0,0,2,0,0,0.04484804,01:14.238759,afternoon,2.0,It is good that you take part in Moodbuster Lite. You can commend yourself for that!,1.0
+11/11/2020,2,AAAAAAAT,0,0,0,0.0,0.005335746,0,0,0,3,0,0,0.04484804,01:32.960239,evening,2.0,It is good to track what pleasant activities you did.,2.0
+12/28/2020,2,AAAAAAAZ,0,0,0,0.0,0.005335514,0,0,0,3,0,0,0.04484804,01:18.000923,evening,1.0,"In your calendar, you can see the activities which you planned in the past.",2.0
+12/17/2020,1,AAAAAAAL,0,0,0,0.0,0.005336592,0,0,0,2,0,0,0.04484804,01:19.279692,afternoon,1.0,Good that you are still rating your mood on a regular basis! Keep up the good work!,1.0
+10/30/2020,2,AAAAAAAB,0,0,0,0.0,0.005336019,0,0,0,3,0,0,0.04484804,01:18.744779,evening,2.0,It is good to track what pleasant activities you did.,2.0
+12/30/2020,1,AAAAAAA6,0,0,0,0.0,0.005335055,0,0,0,2,0,0,0.04484804,01:16.186830,afternoon,1.0,It’s great that you are making time for yourself to improve your mood!,1.0
+12/07/2020,0,AAAAAACE,0,0,0,0.0,0.005335918,0,0,0,1,0,0,0.04484804,01:03.562648,morning,1.0,It’s great that you are making time for yourself to improve your mood!,0.0
+12/24/2020,2,AAAAAABP,0,0,0,0.0,0.00533621,0,0,0,3,0,0,0.04484804,01:24.108094,evening,2.0,Reminders may help you to not forget about the pleasant activities.,2.0
+12/09/2020,0,AAAAAAAD,0,0,0,0.0,0.005336133,0,0,0,1,0,0,0.04484804,01:26.953658,morning,1.0,Good that you are still rating your mood on a regular basis! Keep up the good work!,0.0
+01/05/2021,2,AAAAAAAE,0,0,0,0.0,0.005335554,0,0,0,3,0,0,0.04484804,01:17.867911,evening,2.0,"In your calendar, you can see the activities which you planned in the past.",2.0
+12/29/2020,2,AAAAAAAH,0,0,0,0.0,0.005335274,0,0,0,3,0,0,0.04484804,01:20.091038,evening,2.0,It’s good to keep track of what pleasant activities you do and how your mood is.,2.0
+12/27/2020,1,AAAAAAA2,0,0,0,0.0,0.005335099,0,0,0,2,0,0,0.04484804,01:19.920430,afternoon,1.0,It is good that you take part in Moodbuster Lite. You can commend yourself for that!,1.0
+12/30/2020,0,AAAAAABS,0,0,0,0.0,0.005335512,0,0,0,1,0,0,0.04484804,01:21.461216,morning,1.0,Good that you are still rating your mood on a regular basis! Keep up the good work!,0.0
+01/10/2021,2,AAAAAACG,0,0,0,0.0,0.005334197,0,0,0,3,0,0,0.04484804,01:09.520184,evening,2.0,Reminders may help you to not forget about the pleasant activities.,2.0
+10/10/2020,2,AAAAAAA7,0,0,0,0.0,0.005335459,0,0,0,3,0,0,0.04484804,01:25.664689,evening,2.0,"In your calendar, you can see the activities which you planned in the past.",2.0
+01/06/2021,1,AAAAAACW,0,0,0,0.0,0.005334191,0,0,0,2,0,0,0.04484804,01:23.144129,afternoon,1.0,Good that you are still rating your mood on a regular basis! Keep up the good work!,1.0
+11/04/2020,2,AAAAAABQ,2,5,5,5.1,0.911742886,0,0,0,3,0,0,0.04484804,01:35.079648,evening,2.0,Did you forget what pleasant activities to do? You can always check your notes on the website.,2.0
+12/28/2020,0,AAAAAAAX,0,0,0,0.0,0.005334543,0,0,0,1,0,0,0.04484804,01:11.831167,morning,1.0,Good that you are still rating your mood on a regular basis! Keep up the good work!,0.0
+12/26/2020,2,AAAAAAAK,0,0,0,0.0,0.00533678,0,0,0,3,0,0,0.04484804,01:27.043248,evening,2.0,Reminders may help you to not forget about the pleasant activities.,2.0
+12/13/2020,0,AAAAAAB9,0,0,0,0.0,0.005335711,0,0,0,1,0,0,0.04484804,01:20.095393,morning,1.0,It is good that you take part in Moodbuster Lite. You can commend yourself for that!,0.0
+11/27/2020,2,AAAAAACM,0,0,0,0.0,0.005336814,0,0,0,3,0,0,0.04484804,01:36.664465,evening,2.0,Reminders may help you to not forget about the pleasant activities.,2.0
+12/30/2020,0,AAAAAACC,0,0,0,0.0,0.005334576,0,0,0,1,0,0,0.04484804,01:25.228498,morning,1.0,It’s great that you are making time for yourself to improve your mood!,0.0
+12/18/2020,2,AAAAAABL,0,0,0,0.0,0.005335694,0,0,0,3,0,0,0.04484804,01:09.373157,evening,2.0,Did you forget what pleasant activities to do? You can always check your notes on the website.,2.0
+12/16/2020,0,AAAAAAAY,0,0,0,0.0,0.005334798,0,0,0,1,0,0,0.04484804,01:20.787798,morning,1.0,It’s great that you are making time for yourself to improve your mood!,0.0
+10/13/2020,2,AAAAAAB6,2,5,4,4.4,1.000038307,1,1,1,3,2,1,2.0,01:35.900975,evening,2.0,Do not forget to rate your mood three times per day.,2.0
+10/25/2020,2,AAAAAACN,1,5,5,5.5,0.903994851,0,0,1,3,3,0,0.04484804,01:09.617643,evening,2.0,Reminders may help you to not forget about the pleasant activities.,2.0
+12/12/2020,2,AAAAAABD,0,0,0,0.0,0.005336027,0,0,0,3,0,0,0.04484804,01:28.269554,evening,2.0,Don’t forget to set a reminder in order to not forget about your scheduled pleasant activities.,2.0
+12/26/2020,1,AAAAAACP,0,0,0,0.0,0.005335802,0,0,0,2,0,0,0.04484804,01:18.976073,afternoon,1.0,It is good that you take part in Moodbuster Lite. You can commend yourself for that!,1.0
+12/15/2020,1,AAAAAAC2,0,0,0,0.0,0.005334969,0,0,0,2,0,0,0.04484804,01:23.261007,afternoon,1.0,It is good that you take part in Moodbuster Lite. You can commend yourself for that!,1.0
